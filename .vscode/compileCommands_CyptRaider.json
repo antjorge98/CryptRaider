@@ -1,0 +1,97 @@
+[
+	{
+		"file": "C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\Source\\CyptRaider\\CyptRaider.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\.vscode\\compileCommands_CyptRaider\\CyptRaider.211.rsp\"",
+		"directory": "C:\\Program Files (x86)\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\Source\\CyptRaider\\CyptRaider.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\.vscode\\compileCommands_CyptRaider\\CyptRaider.211.rsp\"",
+		"directory": "C:\\Program Files (x86)\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\Source\\CyptRaider\\CyptRaider.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\.vscode\\compileCommands_CyptRaider\\CyptRaider.211.rsp\"",
+		"directory": "C:\\Program Files (x86)\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\Source\\CyptRaider\\CyptRaiderCharacter.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\.vscode\\compileCommands_CyptRaider\\CyptRaider.211.rsp\"",
+		"directory": "C:\\Program Files (x86)\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\Source\\CyptRaider\\CyptRaiderCharacter.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\.vscode\\compileCommands_CyptRaider\\CyptRaider.211.rsp\"",
+		"directory": "C:\\Program Files (x86)\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\Source\\CyptRaider\\CyptRaiderGameMode.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\.vscode\\compileCommands_CyptRaider\\CyptRaider.211.rsp\"",
+		"directory": "C:\\Program Files (x86)\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\Source\\CyptRaider\\CyptRaiderGameMode.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\.vscode\\compileCommands_CyptRaider\\CyptRaider.211.rsp\"",
+		"directory": "C:\\Program Files (x86)\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\Source\\CyptRaider\\CyptRaiderProjectile.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\.vscode\\compileCommands_CyptRaider\\CyptRaider.211.rsp\"",
+		"directory": "C:\\Program Files (x86)\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\Source\\CyptRaider\\CyptRaiderProjectile.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\.vscode\\compileCommands_CyptRaider\\CyptRaider.211.rsp\"",
+		"directory": "C:\\Program Files (x86)\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\Source\\CyptRaider\\Grabber.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\.vscode\\compileCommands_CyptRaider\\CyptRaider.211.rsp\"",
+		"directory": "C:\\Program Files (x86)\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\Source\\CyptRaider\\Grabber.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\.vscode\\compileCommands_CyptRaider\\CyptRaider.211.rsp\"",
+		"directory": "C:\\Program Files (x86)\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\Source\\CyptRaider\\mover.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\.vscode\\compileCommands_CyptRaider\\CyptRaider.211.rsp\"",
+		"directory": "C:\\Program Files (x86)\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\Source\\CyptRaider\\mover.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\.vscode\\compileCommands_CyptRaider\\CyptRaider.211.rsp\"",
+		"directory": "C:\\Program Files (x86)\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\Source\\CyptRaider\\TP_PickUpComponent.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\.vscode\\compileCommands_CyptRaider\\CyptRaider.211.rsp\"",
+		"directory": "C:\\Program Files (x86)\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\Source\\CyptRaider\\TP_PickUpComponent.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\.vscode\\compileCommands_CyptRaider\\CyptRaider.211.rsp\"",
+		"directory": "C:\\Program Files (x86)\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\Source\\CyptRaider\\TP_WeaponComponent.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\.vscode\\compileCommands_CyptRaider\\CyptRaider.211.rsp\"",
+		"directory": "C:\\Program Files (x86)\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\Source\\CyptRaider\\TP_WeaponComponent.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\.vscode\\compileCommands_CyptRaider\\CyptRaider.211.rsp\"",
+		"directory": "C:\\Program Files (x86)\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\Source\\CyptRaider\\TriggerComponent.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\.vscode\\compileCommands_CyptRaider\\CyptRaider.211.rsp\"",
+		"directory": "C:\\Program Files (x86)\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\Source\\CyptRaider\\TriggerComponent.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\jorge\\OneDrive\\Documentos\\Unreal Projects\\CyptRaider\\.vscode\\compileCommands_CyptRaider\\CyptRaider.211.rsp\"",
+		"directory": "C:\\Program Files (x86)\\UE_5.0\\Engine\\Source"
+	}
+]
